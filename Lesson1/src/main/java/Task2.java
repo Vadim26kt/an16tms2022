@@ -9,6 +9,7 @@ public class Task2 {
                count = count +1;
 
             }
+
         }
         System.out.println("Count positive numbers=" +count);
     }
