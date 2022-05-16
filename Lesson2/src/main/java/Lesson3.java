@@ -38,9 +38,10 @@ public class Lesson3 {
             min1 = Math.min(Math.abs(x), Math.abs(y));
             min2 = Math.min(Math.abs(x), Math.abs(z));
             min = Math.min(min1, min2);
-            System.out.println(min);
+            System.out.println("Smaller in modulus:" + min);
         }
     }
+
 }
 
 
