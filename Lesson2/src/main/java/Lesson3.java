@@ -12,7 +12,6 @@ public class Lesson3 {
             System.out.println((char) c);
         }
     }
-
     private static void taskTwo() {
         int num;
         System.out.println("Enter a number: ");
